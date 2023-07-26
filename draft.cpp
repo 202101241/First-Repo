@@ -5,7 +5,7 @@ int main(){
     int num;
     cin>>num;
 
-    cout<<"You have entered number : "<<num<<endl;
+    cout<<"entered number is: "<<num<<endl;
 
     return 0;
 }
